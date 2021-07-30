@@ -1,0 +1,31 @@
+{
+  "name": "hook-it",
+  "version": "1.0.0",
+  "description": "library for react-hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobgetz/hook-it.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "library"
+  ],
+  "author": "Jakob Getz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakobgetz/hook-it/issues"
+  },
+  "homepage": "https://github.com/jakobgetz/hook-it#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/react": "^17.0.15",
+    "jest": "^27.0.6",
+    "react": "^17.0.2",
+    "ts-jest": "^27.0.4"
+  }
+}
